@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, I'm Sheik Mohamed
+Data Analyst | Insights-Driven Storyteller
 
-<!--
-**Sheik1sha/Sheik1sha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+A Data Analyst with expertise in data engineering, automation, and business intelligence. With a background in network engineering, I bring a unique blend of technical proficiency and analytical problem-solving to data analytics. My passion lies in extracting meaningful insights, streamlining workflows, and driving data-informed decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently pursuing a Master’s in Data Science & Application at the University at Buffalo (2023–2025), I am excited to advance my career in data analytics.
+
+## Projects
+1. <a href="">**Insurance Policy Analytics: Visualizing Trends, Risks, and Opportunities**
+
+ 
+   
+1. <a href="">****</a>
+
+
+
+2. <a href="">****</a>
+
+  
+
+
+
+  
+
+## Skills & Expertise
