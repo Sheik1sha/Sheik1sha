@@ -1,5 +1,10 @@
 # Hello, I'm Sheik Mohamed
-Data Analyst | Insights-Driven Storyteller
+**Data Analyst | Insights-Driven Storyteller | Data Engineering Enthusiast**
+
+📍 **Buffalo, New York, USA**  
+📧 **smsheik1@gmail.com**  
+📞 **+1 (716)-590-9574**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sheik-mohamed-p/)
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -13,3 +18,10 @@ Currently pursuing a Master’s in Data Science & Application at the University 
  Analyzes insurance policy records to identify trends in premiums, claims, risk factors, and regional performance. Utilizes Power BI for visualization and Python for data preparation, delivering actionable insights to optimize 
  policy pricing, risk assessment, and resource allocation, driving data-driven decision-making in the insurance industry.
    
+## Skills and Expertise  
+
+✅ **Data Engineering & ETL** – SQL, Python, Alteryx, Data Pipelines  
+✅ **Business Intelligence & Visualization** – Tableau, Power BI, Dashboards  
+✅ **Machine Learning & Statistical Analysis** – Regression, Clustering, NLP  
+✅ **Data Transformation & Automation** – Python (Pandas, NumPy), Alteryx  
+✅ **Cloud & Database Management** – MySQL, Salesforce, Data Warehousing
