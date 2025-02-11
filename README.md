@@ -1,11 +1,6 @@
 # Hello, I'm Sheik Mohamed
 **Data Analyst | Insights-Driven Storyteller | Data Engineering Enthusiast**
 
-📍 **Buffalo, New York, USA**  
-📧 **smsheik1@gmail.com**  
-📞 **+1 (716)-590-9574**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sheik-mohamed-p/)
-
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 A Data Analyst with expertise in data engineering, automation, and business intelligence. With a background in network engineering, I bring a unique blend of technical proficiency and analytical problem-solving to data analytics. My passion lies in extracting meaningful insights, streamlining workflows, and driving data-informed decision-making.
