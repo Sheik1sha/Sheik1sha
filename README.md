@@ -13,9 +13,8 @@ Currently pursuing a Master’s in Data Science & Application at the University 
 Analyzed customer support data to uncover trends in ticket distribution, agent performance, SLA compliance, and customer satisfaction. Focused on delivering actionable insights to optimize support operations, reduce SLA violations, and enhance the customer experience. Utilized Tableau for interactive visualizations and Python for data preprocessing.
 
 2. <a href="https://github.com/Sheik1sha/Insurance-Policy-Analytics">**Insurance Policy Analytics: Visualizing Trends, Risks, and Opportunities**
-
- Analyzes insurance policy records to identify trends in premiums, claims, risk factors, and regional performance. Utilizes Power BI for visualization and Python for data preparation, delivering actionable insights to optimize 
- policy pricing, risk assessment, and resource allocation, driving data-driven decision-making in the insurance industry.
+3. 
+Explored insurance policy records to uncover patterns in premiums, claims, risk factors, and regional performance. Delivered insights that optimized policy pricing, risk assessment, and resource allocation, enhancing decision-making in the insurance industry. Leveraged Power BI for visualization and Python for data preparation.
    
 ## Skills and Expertise  
 
