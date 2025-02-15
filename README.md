@@ -1,5 +1,5 @@
 # Hello, I'm Sheik Mohamed
-**Data Analyst | Insights-Driven Storyteller | Data Engineering Enthusiast**
+**Data Engineering Enthusiast| Insights-Driven Storyteller | Data Analyst**
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
