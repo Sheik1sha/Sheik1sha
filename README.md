@@ -3,9 +3,10 @@
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A Data Analyst with expertise in data engineering, automation, and business intelligence. With a background in network engineering, I bring a unique blend of technical proficiency and analytical problem-solving to data analytics. My passion lies in extracting meaningful insights, streamlining workflows, and driving data-informed decision-making.
+Data Engineer with expertise in building scalable ETL pipelines, automating workflows, and enabling data-driven decision-making. Proficient in Python, SQL, ETL/ELT processes, and cloud platforms like Azure and Databricks. Experienced in designing data warehouses, optimizing data flows, and creating interactive dashboards using Tableau and Power BI. 
 
-Currently pursuing a Master’s in Data Science & Application at the University at Buffalo (2023–2025), I am excited to advance my career in data analytics.
+Currently pursuing a Master’s in Data Science & Application at the University at Buffalo (2023–2025). Passionate about streamlining data workflows, improving data reliability, and delivering actionable insights.
+
 
 ## Projects
 1. <a href="https://github.com/Sheik1sha/2023-Technical-Support-and-KPI-Analysis-">**Technical Support Analytics: Enhancing Service Efficiency and Customer Satisfaction**
