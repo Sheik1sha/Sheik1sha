@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Data Engineer with expertise in building scalable ETL pipelines, automating workflows, and enabling data-driven decision-making. Proficient in Python, SQL, ETL/ELT processes, and cloud platforms like Azure and Databricks. Experienced in designing data warehouses, optimizing data flows, and creating interactive dashboards using Tableau and Power BI. 
+Data Engineer with expertise in building scalable ETL pipelines, automating workflows, and enabling data-driven decision-making. Proficient in Python, SQL, ETL/ELT processes, and cloud platforms like AWS and Databricks. Experienced in designing data warehouses, optimizing data flows, and creating interactive dashboards using Tableau and Power BI. 
 
 Currently pursuing a Master’s in Data Science & Application at the University at Buffalo (2023–2025). Passionate about streamlining data workflows, improving data reliability, and delivering actionable insights.
 
