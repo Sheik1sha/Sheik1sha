@@ -3,11 +3,19 @@
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Data Engineer with expertise in building scalable ETL pipelines, automating workflows, and enabling data-driven decision-making. Proficient in Python, SQL, ETL/ELT processes, and cloud platforms like AWS and Databricks. Experienced in designing data warehouses, optimizing data flows, and creating interactive dashboards using Tableau and Power BI. 
+A Data Engineer with practical experience in developing scalable ETL pipelines, automating data workflows, and supporting data-driven decision-making across business functions.
 
-Currently pursuing a Master’s in Data Science & Application at the University at Buffalo (2023–2025). Passionate about streamlining data workflows, improving data reliability, and delivering actionable insights.
+**Technical Focus**:
+* Proficient in Python and SQL for data transformation and automation.
+* Skilled in ETL/ELT pipeline design, data warehousing, and performance optimization
+* Experienced in developing interactive dashboards using Tableau and Power BI
+* Currently enhancing my expertise in AWS services including S3, Glue, Redshift, and Lambda
 
+**Education**:
+Master of Science in Data Science & Applications – University at Buffalo, Class of 2025
 
+**Interests**:
+Improving data reliability, streamlining data infrastructure, and delivering actionable insights that support strategic business outcomes.
 ## Projects
 1. <a href="https://github.com/Sheik1sha/2023-Technical-Support-and-KPI-Analysis-">**Technical Support Analytics: Enhancing Service Efficiency and Customer Satisfaction**
 
