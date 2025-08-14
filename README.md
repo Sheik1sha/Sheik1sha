@@ -1,14 +1,14 @@
 # Hello, I'm Sheik Mohamed
-**Data Engineering Enthusiast| Insights-Driven Storyteller | Data Analyst**
+**Data Analyst & Analytics Enthusiast| Insights-Driven Storyteller | Data Analyst**
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-A Data Engineer with practical experience in developing scalable ETL pipelines, automating data workflows, and supporting data-driven decision-making across business functions.
-
+Data professional with hands-on experience in data engineering, analytics, and Workday reporting—skilled at building scalable pipelines, automating workflows, and creating impactful dashboards that support data-driven decision-making across business functions.
 **Technical Focus**:
-* Proficient in Python and SQL for data transformation and automation.
-* Skilled in ETL/ELT pipeline design, data warehousing, and performance optimization
-* Experienced in developing interactive dashboards using Tableau and Power BI
+* Proficient in Python and SQL for data transformation, automation, and analysis.
+* Skilled in ETL/ELT pipeline design, data modeling, warehousing, and performance optimization
+* Experienced in Workday reporting (Advanced, Matrix, Composite Reports, Dashboards) for workforce analytics
+* Strong in data visualization using Tableau and Power BI
 * Currently enhancing my expertise in AWS services including S3, Glue, Redshift, and Lambda
 
 **Education**:
