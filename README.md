@@ -33,7 +33,7 @@ Conducted A/B testing to analyze the impact of website background color (White v
 ## Skills and Expertise  
 
 ✅ **Data Engineering & ETL** – SQL, Python, Alteryx, Data Pipelines  
-✅ **Business Intelligence & Visualization** – Tableau, Power BI, Dashboards  
+✅ **Business Intelligence & Visualization** – Advanced Excel,Tableau, Power BI, Workday (Custom & Advanced Reports, Calculated Fields), Dashboards 
 ✅ **Machine Learning & Statistical Analysis** – Regression, Clustering, NLP  
 ✅ **Data Transformation & Automation** – Python (Pandas, NumPy), Alteryx  
 ✅ **Cloud & Database Management** – MySQL, Salesforce, Data Warehousing
