@@ -3,13 +3,17 @@
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Data professional with hands-on experience in data engineering, analytics, and Workday reporting—skilled at building scalable pipelines, automating workflows, and creating impactful dashboards that support data-driven decision-making across business functions.
-**Technical Focus**:
-* Proficient in Python and SQL for data transformation, automation, and analysis.
-* Skilled in ETL/ELT pipeline design, data modeling, warehousing, and performance optimization
-* Experienced in Workday reporting (Advanced, Matrix, Composite Reports, Dashboards) for workforce analytics
-* Strong in data visualization using Tableau and Power BI
-* Currently enhancing my expertise in AWS services including S3, Glue, Redshift, and Lambda
+Data Engineer with 5+ years of experience designing cloud-native pipelines, scalable data platforms, and BI solutions across telecom, industrial safety, and nonprofit sectors. Skilled in Python, SQL, Apache Spark, Hadoop, Hive, Azure, Salesforce, Tableau, and Power BI, I’ve delivered measurable impact by reducing reporting cycles by 25%, improving data accuracy by 30%, and enabling leadership with real-time insights.
+
+My background includes:
+• Building ETL/ELT workflows that integrate structured and unstructured data at scale
+• Applying NLP and analytics to uncover risks and hidden patterns in safety and operational data
+• Developing 30+ interactive dashboards adopted by global executives for decision-making
+• Driving data governance, quality, and automation to create trusted, consistent reporting layers
+
+What sets me apart is the ability to bridge technical depth with business storytelling. 
+
+I don’t just move data...........I make it trusted, accessible, and actionable, enabling organizations to make smarter, faster decisions.
 
 **Education**:
 Master of Science in Data Science & Applications – University at Buffalo, Class of 2025
