@@ -1,5 +1,5 @@
 # Hello, I'm Sheik Mohamed
-**Data Analyst & Analytics Enthusiast| Insights-Driven Storyteller | Data Analyst**
+**Data Engineer | Azure | Python | SQL | ETL Pipelines | Spark, Hadoop, Hive | Power BI & Tableau | Data Modeling & Governance | Turning Raw Data into Actionable Insights**
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
