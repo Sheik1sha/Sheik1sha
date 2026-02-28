@@ -3,7 +3,7 @@
 
 <a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Data Engineer with 4+ years of experience designing cloud-native data pipelines, scalable analytics platforms, and BI solutions across telecom, industrial safety, and nonprofit sectors. Skilled in Python, SQL, Spark, Hadoop, Hive, Azure, Salesforce, Tableau, Power BI, Snowflake, and dbt. I’ve delivered measurable impact by reducing reporting cycles by 25%, improving data accuracy by 30%, and enabling leadership with reliable, real-time insights.
+Data Engineer with 5 years of experience designing cloud-native data pipelines, scalable analytics platforms, and BI solutions across telecom, industrial safety, and nonprofit sectors. Skilled in Python, SQL, Spark, Hadoop, Hive, Azure, Salesforce, Tableau, Power BI, Snowflake, and dbt. I’ve delivered measurable impact by reducing reporting cycles by 25%, improving data accuracy by 30%, and enabling leadership with reliable, real-time insights.
 
 My background includes:
 
