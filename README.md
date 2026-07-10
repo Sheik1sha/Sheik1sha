@@ -1,5 +1,24 @@
 # Hello, I'm Sheik Mohamed
 
+## Skills and Expertise  
+
+✅ **Cloud Data Engineering** AWS & Azure – AWS Glue, Amazon S3, AWS Lambda, AWS Step Functions, IAM, Amazon Athena, Amazon Redshift, Redshift Spectrum, Amazon EC2, VPC, Glue Workflows, Azure Data Factory, ADLS Gen2, Azure Synapse, Azure Databricks
+
+✅ **Big Data Processing & Query Engines** – PySpark, Apache Spark, Databricks, Delta Lake, Spark SQL, Amazon Athena
+
+✅ **Programming, SQL & Databases** – Python, Advanced SQL, PostgreSQL, Pandas, NumPy
+
+✅ **ETL/ELT & Orchestration** – Apache Airflow, dbt Core, Dagster, AWS Step Functions, Event-Driven Pipelines, Incremental Data Pipelines
+
+✅ **Data Modeling & Architecture** – Dimensional Modeling, Star Schema, Medallion Architecture, Bronze/Silver/Gold Layers, Incremental Loading, SCD Type 2, Semantic Models
+
+✅ **DevOps & Version Control** – Git, GitHub Actions, CI/CD Pipelines, AWS CloudFormation, Agile/Scrum
+
+✅ **Analytics & Visualization** – Tableau, Power BI, KPI Dashboards, Semantic Models
+
+✅ **Data Quality, Governance & Compliance** – Data Validation, Reconciliation Frameworks, Pipeline Monitoring, Unity Catalog, Data Lineage, Medical and Pharmacy Claims Data, HIPAA, GDPR
+
+
 **Interests**:
 Improving data reliability, streamlining data infrastructure, and delivering actionable insights that support strategic business outcomes.
 ## Projects
@@ -43,14 +62,4 @@ Explored insurance policy records to uncover patterns in premiums, claims, risk 
 Conducted A/B testing to analyze the impact of website background color (White vs. Black) on user engagement metrics such as page views, time spent, and conversion rates. Identified that the Black background significantly improved conversion rates without affecting browsing behavior. Provided actionable recommendations to implement the Black background site-wide and optimize for high-performing segments like desktop users and regions like England. Utilized Python for statistical analysis and data visualization.
 
    
-## Skills and Expertise  
-
-✅ **Cloud Data Engineering** AWS & Azure – AWS Glue, Amazon S3, AWS Lambda, AWS Step Functions, IAM, Amazon Athena, Amazon Redshift, Redshift Spectrum, Amazon EC2, VPC, Glue Workflows, Azure Data Factory, ADLS Gen2, Azure Synapse, Azure Databricks
-✅ **Big Data Processing & Query Engines** – PySpark, Apache Spark, Databricks, Delta Lake, Spark SQL, Dremio, Presto, Amazon Athena
-✅ **Programming, SQL & Databases** – Python, Advanced SQL, PostgreSQL, Pandas, NumPy
-✅ **ETL/ELT & Orchestration** – Apache Airflow, dbt Core, Dagster, AWS Step Functions, Event-Driven Pipelines, Incremental Data Pipelines
-✅ **Data Modeling & Architecture** – Dimensional Modeling, Star Schema, Medallion Architecture, Bronze/Silver/Gold Layers, Incremental Loading, SCD Type 2, Semantic Models
-✅ **DevOps & Version Control** – Git, GitHub Actions, CI/CD Pipelines, AWS CloudFormation, Agile/Scrum
-✅ **Analytics & Visualization** – Tableau, Power BI, KPI Dashboards, Semantic Models
-✅ **Data Quality, Governance & Compliance** – Data Validation, Reconciliation Frameworks, Pipeline Monitoring, Unity Catalog, Data Lineage, Medical and Pharmacy Claims Data, HIPAA, GDPR
 
