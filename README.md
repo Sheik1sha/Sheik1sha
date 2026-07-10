@@ -1,24 +1,4 @@
 # Hello, I'm Sheik Mohamed
-**Data Engineer | Azure, Snowflake | Python, SQL | ETL & ELT Pipelines | dbt, Spark | Power BI & Tableau | Data Modeling & Governance**
-
-<a href="https://www.linkedin.com/in/sheik-mohamed-p"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-Data Engineer with 5 years of experience designing cloud-native data pipelines, scalable analytics platforms, and BI solutions across telecom, industrial safety, and nonprofit sectors. Skilled in Python, SQL, Spark, Hadoop, Hive, Azure, Salesforce, Tableau, Power BI, Snowflake, and dbt. I’ve delivered measurable impact by reducing reporting cycles by 25%, improving data accuracy by 30%, and enabling leadership with reliable, real-time insights.
-
-My background includes:
-
-•  Building ETL/ELT workflows that integrate structured and unstructured data across cloud environments  
-•  Designing and automating end-to-end data pipelines using Azure, Snowflake, dbt, and orchestration tools  
-•  Applying NLP and analytics to uncover risks, sentiment patterns, and operational insights  
-•  Developing 30+ interactive dashboards used by global executives for strategic decision-making  
-•  Driving data governance, quality, and automation to deliver trusted, consistent reporting layers  
-
-What sets me apart is the ability to bridge technical depth with business storytelling. 
-
-I don’t just move data...........I make it trusted, accessible, and actionable, enabling organizations to make smarter, faster decisions.
-
-**Education**:
-Master of Science in Data Science & Applications – University at Buffalo, Class of 2025
 
 **Interests**:
 Improving data reliability, streamlining data infrastructure, and delivering actionable insights that support strategic business outcomes.
